@@ -1,6 +1,8 @@
 # DecentralVault
 
-![image](https://user-images.githubusercontent.com/33644308/225613244-b37f960c-bd1a-4e4b-a82d-0b86a9ff76e2.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33644308/225613244-b37f960c-bd1a-4e4b-a82d-0b86a9ff76e2.png" />
+</p>
 
 Welcome to my web-based non-custodial wallet called DecentralVault, inspired by the design philosophy of the now-defunct peer-to-peer crypto exchange, Localcryptos!
 
