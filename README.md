@@ -1,5 +1,4 @@
-# non-custodial-crypto-wallet
-
+# DecentralVault
 
 Welcome to my web-based non-custodial wallet called DecentralVault, inspired by the design philosophy of the now-defunct peer-to-peer crypto exchange, Localcryptos!
 
